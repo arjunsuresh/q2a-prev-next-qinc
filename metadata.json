@@ -1,0 +1,13 @@
+{
+  "name": "Prev Next Question in Category",
+  "uri": "https://github.com/arjunsuresh/q2a-prev-next-qinc",
+  "description": "Adds PREVIOUS and NEXT buttons in question pages from respective Category",
+  "version": "1.0",
+  "date": "2016-07-22",
+  "author": "Arjun Suresh",
+  "author_uri": "http://armi.in/arjun",
+  "license": "GPLv2",
+  "update_uri": "https://raw.githubusercontent.com/arjunsuresh/q2a-prev-next-qinc/master/metadata.json",
+  "min_q2a": "1.5",
+  "min_php": "5.1.6"
+}
